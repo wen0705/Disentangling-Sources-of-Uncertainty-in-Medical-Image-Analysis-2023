@@ -50,5 +50,5 @@ CUDA_LAUNCH_BLOCKING=1 python train_DPN.py
 ```
  
 ## Support
-[Data from Stefan Knegt](https://github.com/stefanknegt/Probabilistic-Unet-Pytorch) <br>
+[2D Lung CT patches from Stefan Knegt](https://github.com/stefanknegt/Probabilistic-Unet-Pytorch) <br>
 🤝  Contributions, issues, and feature requests are welcome!
