@@ -8,7 +8,7 @@ This repository is a brief documentation of TCIA's Lung Image Database Consortiu
 - [Radiologist Annotations(XML)](#radiologist_annotations(xml))
 - [LIDC DICOM](#images)
 - [LIDC Nodule size list](#meta)
-- [Support](#support)
+- [References](#references)
 ## Overview
 Each patient has two folders
 - Chest PA Lateral (DICOM + XML)
@@ -95,7 +95,7 @@ This list provides nodule size estimations for LIDC/IDRI dataset, we are interes
   - Scan in Nodule size list is the DICOM series number in (0020,0011)
  
   
-## Support
+## References
 [TCIA Public access](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI) <br>
 [DICOM Standard Browser](https://dicom.innolitics.com/ciods/rt-dose/image-plane/00280030)<br>
 [Nodule size list documentation](http://www.via.cornell.edu/lidc/)<br>
